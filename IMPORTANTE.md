@@ -3,4 +3,3 @@
 <h1>Direitos</h1>
 <p>Os direitos das imagens deste projeto s&atilde;o de quem as tirou.</p>
 <p>Voc&ecirc; n&atilde;o tem o direito de copiar e/ou redistribuir o c&oacute;digo e as imagens deste projeto.</p>
-<p>&nbsp;</p>
